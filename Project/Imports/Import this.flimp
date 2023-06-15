@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  AutoSync="true"
+  LastImport="2023-06-15T13:41:26.3518617-07:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/Import this.docx"
+      AbsoluteSource="file:///C:/Users/cecheverria/Desktop/Import this.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Import this.htm"
+      TimeStamp="6/15/2023 1:41:23 PM" />
+    <Url
+      Source="../TOCs/Import this.fltoc"
+      TimeStamp="6/15/2023 1:41:23 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Import this.css"
+      TimeStamp="6/15/2023 1:41:23 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="List Paragraph"
+      To="p.ListParagraph"
+      Style="Word" />
+  </ParagraphStyles>
+  <CharacterStyles />
+  <NewTopicStyles />
+</MsWordImport>
