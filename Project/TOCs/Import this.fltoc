@@ -1,4 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultToc Version="1">
-    <TocEntry Title="Import this" Link="/Content/Import this.htm" />
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Import this"
+    Link="/Content/Import this.htm" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/TOPIC NEW.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
 </CatapultToc>
